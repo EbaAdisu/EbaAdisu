@@ -21,4 +21,6 @@ I am a **Software Engineering student**. I enjoy solving complex problems and bu
 ### 📫Connect with me
 [![LeetCode](https://upload.wikimedia.org/wikipedia/en/6/62/LeetCode_logo.png)](https://leetcode.com/ebaadisu) 
 [![Codeforces](https://codeforces.org/s/58820/images/codeforces-logo.svg)](https://codeforces.com/profile/ebaadisu2)
+[![LinkedIn]()](https://www.linkedin.com/in/eba-adisu-kenea/)
+
 
