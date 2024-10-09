@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋
+### Hi there 👋
 
 I am a **Software Engineering student**. I enjoy solving complex problems and building innovative solutions through code.
 
 
-### 📫Connect with me
-[![LeetCode](https://upload.wikimedia.org/wikipedia/en/6/62/LeetCode_logo.png)](https://leetcode.com/ebaadisu) 
-[![Codeforces](https://codeforces.org/s/58820/images/codeforces-logo.svg)](https://codeforces.com/profile/ebaadisu2)
-[![LinkedIn]()](https://www.linkedin.com/in/eba-adisu-kenea/)
-
+### 📫 Connect with me
+[![LeetCode](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png)](https://leetcode.com/ebaadisu)
+[![Codeforces](https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png)](https://codeforces.com/profile/ebaadisu2)
+[![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/eba-adisu-kenea/)
 
